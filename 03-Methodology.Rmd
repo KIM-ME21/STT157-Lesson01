@@ -1,0 +1,18 @@
+# Methodology
+
+Insert methodology here.
+
+According to [@lee2003predicting]
+
+
+<!-- `r stringi::stri_rand_lipsum(1)` -->
+
+
+`r stringi::stri_rand_lipsum(1)`
+
+`r stringi::stri_rand_lipsum(1)`
+
+`r stringi::stri_rand_lipsum(1)`
+
+
+
